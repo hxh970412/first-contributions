@@ -97,6 +97,8 @@
 - [HyperLeafy] (https://github.com/HyperLeafy)
 - [Prateek Yadav] (https://github.com/prateeky477)
 - [YL]
+- [Xinhao Huang] change
+
 - [Emily Arnold] 
 - [Chad Kreiger]
 - [Qamarul Arifin Abd Manan] (https://github.com/wisemoon88)
